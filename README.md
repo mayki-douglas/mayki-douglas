@@ -35,7 +35,7 @@
   
   <div>
     <a href="mailto:mayki.douglas1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank"></a>
-    <a href="mailto:mayki_douglas1@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target= "_blank"></a>
+    <a href="mailto:mayki_douglas@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target= "_blank"></a>
     <a href="https://wa.me/qr/ZB2US6A4OBEMM1" target= "_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target= "_blank"></a>
     <a href="https://t.me/mayki_douglas" target= "_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target= "_blank"></a>
   </div>
