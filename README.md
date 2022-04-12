@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Java e Javascript atualmente.
 
-<div>
   <a href="https://github.com/mayki-douglas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayki-douglas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayki-douglas&layout=compact&langs_count=7&theme=dark"/>
@@ -11,13 +10,16 @@
   ### Linguagens e ferramentas de desenvolvimento:
   
   <div style="display: inline_block"><br>
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/android-studio--v3.png">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   </div>
   
   ### Redes Sociais:
@@ -48,6 +50,10 @@
     <img src="https://img.shields.io/badge/Kingston-HyperX_16GB_DDR4-000000?style=for-the-badge&logo=Kingston&logoColor=white">
     <img src="https://img.shields.io/badge/asRock-B450M_Steel_Legend-000000?style=for-the-badge&logo=Kingston&logoColor=white">
     <img src="https://img.shields.io/badge/Intel-SSD_540s-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-    
+  </div>
+
+  <div>
+    <a href="https://github.com/mayki-douglas/shell-basics/blob/master/comandos-linux.md">Alguns comandos úteis para Linux via terminal </a>
+  <div>
     
     
