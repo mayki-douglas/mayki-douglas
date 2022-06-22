@@ -1,6 +1,6 @@
 ## Olá, me chamo Mayki Douglas.
 
-- 🌱 Estudando Java e Javascript atualmente.
+- 🌱 Estudando PHP e Javascript atualmente.
 
   <a href="https://github.com/mayki-douglas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayki-douglas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,6 +13,7 @@
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
