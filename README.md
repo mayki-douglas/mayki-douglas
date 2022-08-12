@@ -1,6 +1,6 @@
 ## Olá, me chamo Mayki Douglas.
 
-- 🌱 Estudando PHP e Javascript atualmente.
+- 🌱 Estudando Javascript atualmente.
 
   <a href="https://github.com/mayki-douglas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayki-douglas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
