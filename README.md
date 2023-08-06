@@ -57,12 +57,12 @@
 
   <div style="display: inline_block"><br>
     <img align="center" heigth="50" width="50"som src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <a href="https://github.com/mayki-douglas/shell-basics/blob/master/comandos-linux.md">Alguns comandos úteis para Linux via terminal </a>
+    <a href="https://github.com/mayki-douglas/shell-basics/blob/master/comandos-linux.md">Meu Cheat Sheet de Linux </a>
   <div>
 
   ### Área Git
 
   <div style="display: inline_block"><br>
     <img align="center" heigth="50" width="50"som src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">
-    <a href="https://github.com/mayki-douglas/shell-basics-and-git-commands/blob/master/comandos-git.md">Alguns comandos para Git via terminal </a>
+    <a href="https://github.com/mayki-douglas/shell-basics-and-git-commands/blob/master/comandos-git.md">Meu Cheat Sheet de Git </a>
   <div>
