@@ -7,6 +7,8 @@
   [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayki-douglas&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple" />]: #
   [<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayki-douglas&layout=compact&langs_count=8&theme=midnight-purple" />]: #
 
+  ![GitHubCard](https://githubcard.com/mayki-douglas.svg?d=pOcq_vN7)
+  ![GitHubCard](https://githubcard.com/mayki-douglas.svg?d=3D6N7sbM)
   
   ### Linguagens, IDEs e sistemas usados:
   
